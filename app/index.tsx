@@ -22,11 +22,11 @@ export default function Index() {
 
 const styles = StyleSheet.create({
   Text1: {
-    color: "red",
+    color: "blue",
     fontSize: 40,
   },
   Text2: {
-    backgroundColor: "red",
+    backgroundColor: "blue",
     color: "white",
     fontSize: 50,
   },
