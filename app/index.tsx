@@ -2,7 +2,7 @@ import { ScrollView, StyleSheet, Text } from "react-native";
 import { SafeAreaView } from "react-native-safe-area-context";
 
 export default function Index() {
-  const name: string = "Kent Ross";
+  const name: string = "Julia Marie";
 
   return (
     <SafeAreaView
